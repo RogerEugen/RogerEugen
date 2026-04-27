@@ -24,6 +24,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 
 ## 🧰 Tools & APIs
