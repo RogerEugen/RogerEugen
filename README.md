@@ -15,11 +15,16 @@
 
 ## 💻 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart)
+
 
 ## 🧰 Tools & APIs
 
