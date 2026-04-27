@@ -20,10 +20,11 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+
+## 🧰 Tools & APIs
+
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge\&logo=fastapi)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 
 ---
 
