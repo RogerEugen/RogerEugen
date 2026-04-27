@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roger Eugen
+#  Hi, I'm Roger Eugen
 
 💻 Software Developer
 🌍 Based in Tanzania
@@ -8,8 +8,8 @@
 
 ## 🌐 Socials
 
-* LinkedIn: https://linkedin.com/in/yourname
-* Twitter: https://twitter.com/yourname
+* LinkedIn: https://linkedin.com/in/Rogers Eugen
+* Twitter: https://twitter.com/Rogers_Eugen 
 
 ---
 
